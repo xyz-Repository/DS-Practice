@@ -1,0 +1,1 @@
+Sliding window problems are computational problems in which a fixed/variable-size window is moved through a data structure, typically an array or string, to efficiently process or analyze the continuous subsets of elements. This technique is used to optimize calculations and find patterns, making it a common approach in algorithm design.
