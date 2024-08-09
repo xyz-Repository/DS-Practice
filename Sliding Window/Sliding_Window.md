@@ -10,7 +10,6 @@ Sliding window problems are computational problems in which a fixed/variable-siz
  1. Find maximum sum subArray from an Array of size n. (Here window size is not defined)
 
 Key Points to Identify Sliding Window Problems:
-
 1. These problems generally evolve around Finding Maximum / Minimum Subarray, Substrings which satisfy some specific condition.
 2. The size of the subarray or substring ‘K’ will be given or asked in some of the problems.
 3. These problem can easily be solved in O(n2) time complexity using nested loops, using sliding window we can solve these in O(n) Time Complexity.
